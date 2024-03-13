@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f80592f9-f17f-408a-b57f-9b4b7333eb2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tmp/refactoring-toy-example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/RefactorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RefactorMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/test-out.json" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/test-out.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/test-out.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -106,6 +106,8 @@
       <workItem from="1710045200345" duration="132000" />
       <workItem from="1710047331280" duration="599000" />
       <workItem from="1710176378025" duration="3624000" />
+      <workItem from="1710254268780" duration="851000" />
+      <workItem from="1710358403426" duration="3654000" />
     </task>
     <servers />
   </component>
